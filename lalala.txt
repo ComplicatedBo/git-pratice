@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿abcdefghijklmnopqrstuvwxyz
 
 
@@ -11,3 +12,7 @@
 
 
 lalala
+=======
+abcdefghijklmnopqrstuvwxyz
+abcdefghijklmnopqrstuvwxyz
+>>>>>>> 3817754899fefc26c675677c586773f5cd6a5ad0
